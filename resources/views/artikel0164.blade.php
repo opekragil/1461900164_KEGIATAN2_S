@@ -11,7 +11,7 @@ Sebagai sebuah scripting language, PHP menjalankan instruksi pemrograman saat pr
 
 PHP merupakan bahasa pemrograman server-side, maka script dari PHP nantinya akan diproses di server. Jenis server yang sering digunakan bersama dengan PHP antara lain Apache, Nginx, dan LiteSpeed. 
 
-Selain itu, PHP juga merupakan bahasa pemrograman yang bersifat open source. Pengguna bebas memodifikasi dan mengembangkan sesuai dengan kebutuhan mereka. Tentunya jika memiliki kemampuan coding yang baik, ya? </p>
+Selain itu, PHP juga merupakan bahasa pemrograman yang bersifat open source. Pengguna bebas memodifikasi dan mengembangkan sesuai dengan kebutuhan mereka. Tentunya jika memiliki kemampuan coding yang baik, ya?</p>
 </body>
 
 </html>

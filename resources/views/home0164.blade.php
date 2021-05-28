@@ -14,7 +14,7 @@
   <!-- As a link -->
   <div class="btn-group">
   <a href="#" class="btn btn-primary active" aria-current="page">Home</a>
-  <a href="/artikel" class="btn btn-primary">Artikel</a>
+  <a href="/`artikel" class="btn btn-primary">Artikel</a>
   <a href="/kontak" class="btn btn-primary">Kontak</a>
 
     <h1> Selamat Datang</h1>

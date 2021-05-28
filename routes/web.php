@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\MahasiswaController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -24,3 +25,4 @@ Route::get('/artikel', function () {
 Route::get('/kontak', function () {
     return view('kontak0164');
 });
+Route::resource('mahasiswa', MahasiswaController::class);
